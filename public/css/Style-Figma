@@ -1,0 +1,20 @@
+/* Hero end */
+
+background {
+position: relative;
+width: 1440px;
+height: 4463px;
+overflow-x: scroll;
+
+background: linear-gradient(180deg, #B27952 0%, #9F6A48 9.38%, #946141 13.02%, #8B5B3C 16.67%, #7D4F35 25.52%, #6A402A 37.5%, #613925 45.83%, #593321 51.56%, #532F1D 63.54%, #4C2919 78.12%, #34160C 100%);
+background-blend-mode: difference;
+}
+
+fonts {
+    font-family: 'Syne';
+font-style: normal;
+font-weight: 600;
+font-size: 42px;
+line-height: 50px;
+text-transform: capitalize;
+}
